@@ -2,12 +2,12 @@
 
 https://github.com/JCA2005/Ciberseguridad/blob/main/NC/Fundamentos-Jur%C3%ADdicos.md
 
+![Error](https://github.com/JCA2005/Ciberseguridad/blob/main/NC/Images/Fundamentos-Jur%C3%ADdicos-Portada.png)
+
 **1. Buscad en Internet el término bien jurídico o interés jurídico.¿Creéis que tiene que
 existir un mínimo consenso en la sociedad sobre qué debe considerarse?¿Podríais
 poner ejemplos de valores que, a vuestro juicio, son indudablemente bienes
 jurídicos?**
-
-![Error](https://github.com/JCA2005/Ciberseguridad/blob/main/NC/Images/Fundamentos-Jur%C3%ADdicos-Portada.png)
 
 Prompt chagpt:
 

@@ -4,43 +4,75 @@
 existir un mínimo consenso en la sociedad sobre qué debe considerarse?¿Podríais
 poner ejemplos de valores que, a vuestro juicio, son indudablemente bienes
 jurídicos?**
+
+![](Fundamentos-Jurídicos-Portada.png)
+
 Prompt chagpt:
 
+![](Fundamentos-Jurídicos1.png)
 
 Resultado prompt:
+
+![](Fundamentos-Jurídicos2.png)
+
 Prompt gemini:
 
+![](Fundamentos-Jurídicos3.png)
 
 Resultado gemini:
+
+![](Fundamentos-Jurídicos4.png)
+
 Prompt deepshek:
 
+![](Fundamentos-Jurídicos5.png)
 
 Resultado deepshek:
+
+![](Fundamentos-Jurídicos6.png)
 
 **2. ¿Existe alguna diferencia entre una norma penal y las demás normas jurídicas?**
 Prompt y resultado chatgpt:
 
+![](Fundamentos-Jurídicos7.png)
 
 Prompt y resultado gemini:
+
+![](Fundamentos-Jurídicos8.png)
+
 Prompt deepshek:
 
+![](Fundamentos-Jurídicos9.png)
 
 Resultado deepshek:
+
+![](Fundamentos-Jurídicos10.png)
 
 **3. ¿Creéis que Internet necesita alguna regulación jurídica?Propone aspectos que
 penséis que van a necesitar regulación.**
 Prompt chatgpt:
 
+![](Fundamentos-Jurídicos11.png)
 
 Resultado chatgpt:
+
+![](Fundamentos-Jurídicos12.png)
+
 Prompt gemini:
 
+![](Fundamentos-Jurídicos13.png)
 
 Resultado gemini:
+
+![](Fundamentos-Jurídicos14.png)
+
 Prompt deepshek:
 
+![](Fundamentos-Jurídicos15.png)
 
 Resultado deepshek:
+
+![](Fundamentos-Jurídicos16.png)
 
 4. **Clasificad los términos inferiores en estas categorías: a)derechos y
 libertades;b)sectores o ramas del ordenamiento jurídico; c) sanciones y d) normas
@@ -59,16 +91,26 @@ ciberseguridad
 ● Bien jurídico
 ● Fundamentos jurídicos
 
-
 Prompt chatgpt:
+
+![](Fundamentos-Jurídicos17.png)
+
 Resultado chatgpt:
 
+![](Fundamentos-Jurídicos18.png)
 
 Prompt gemini:
+
+![](Fundamentos-Jurídicos19.png)
+
 Resultado gemini:
 
+![](Fundamentos-Jurídicos20.png)
 
 Prompt deepshek:
+
+![](Fundamentos-Jurídicos21.png)
+
 Resultado deepshek:
 
-
+![](Fundamentos-Jurídicos22.png)

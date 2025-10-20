@@ -9,7 +9,7 @@ jurídicos?**
 
 Prompt chagpt:
 
-![](Fundamentos-Jurídicos1.png)
+![]([Fundamentos-Jurídicos1.png](https://github.com/JCA2005/Ciberseguridad/blob/main/NC/Images/Fundamentos-Jur%C3%ADdicos1.png?raw=true))
 
 Resultado prompt:
 

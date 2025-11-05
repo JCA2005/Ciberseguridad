@@ -1,1 +1,32 @@
+**A1.7. Captura y Análisis de Tráfico de Red**	
 
+1. **Preparación de la Herramienta:**
+
+Empezaremos esta actividad descargando **Wireshark** en el siguiente enlace:
+
+[https://www.wireshark.org/](https://www.wireshark.org/)
+
+Nos aseguraremos que está marcada la casilla para instalar **Npcap** (necesario para capturar tráfico):
+
+![][image1]	  
+Una vez terminada la instalación, ejecutaremos Wireshark con permisos de administrador.
+
+Accederemos a la siguiente **URL**:
+
+[http://testphp.vulnweb.com/login.php](http://testphp.vulnweb.com/login.php)
+
+Esta web nos ofrece un **formulario HTTP** para hacer prácticas, nos deberemos asegurar que la URL use **http://** y no **https://** para poder ver texto en claro.  
+**Captura de Tráfico:**
+
+Abriremos Wireshark y nos iremos a **Captura → Filtros de Captura**, le daremos al **\+** y escribiremos **tcp port 80** como nombre del filtro y **host testphp.vulnweb.com and tcp port 80** como expresión de filtro, por último le daremos a **Aceptar.**
+
+**![][image2]**
+
+Ahora entraremos en la interfaz de Wi-Fi:
+
+**![][image3]**  
+**Conexión a un Sitio Web:**
+
+ Accederemos a la web y en **username** pondremos como ejemplo **prueba** y en password **1234**, pero no le daremos a login todavia:
+
+![][image4]

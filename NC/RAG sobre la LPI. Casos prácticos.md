@@ -6,13 +6,13 @@
 
 1. [***Subir el texto de la Ley de Propiedad Intelectual.***](https://github.com/JCA2005/Ciberseguridad/blob/main/NC/RAG%20sobre%20la%20LPI.%20Casos%20pr%C3%A1cticos.md#subir-el-texto-de-la-ley-de-propiedad-intelectual)
 
-2.[***Ampliar el contexto con la opción de 'Descubrir fuentes' (Opcional)***](https://github.com/JCA2005/Ciberseguridad/blob/main/NC/RAG%20sobre%20la%20LPI.%20Casos%20pr%C3%A1cticos.md#ampliar-el-contexto-con-la-opci%C3%B3n-de-descubrir-fuentes-opcional)
+2. [***Ampliar el contexto con la opción de 'Descubrir fuentes' (Opcional)***](https://github.com/JCA2005/Ciberseguridad/blob/main/NC/RAG%20sobre%20la%20LPI.%20Casos%20pr%C3%A1cticos.md#ampliar-el-contexto-con-la-opci%C3%B3n-de-descubrir-fuentes-opcional)
 
-3.[***Plantear dos casos prácticos DETALLADOS que repercutan en: derechos de creación artística y derechos de propiedad industrial. Se pueden usar casos reales o inventados.***](https://github.com/JCA2005/Ciberseguridad/blob/main/NC/RAG%20sobre%20la%20LPI.%20Casos%20pr%C3%A1cticos.md#plantear-dos-casos-pr%C3%A1cticos-detallados-que-repercutan-en-derechos-de-creaci%C3%B3n-art%C3%ADstica-y-derechos-de-propiedad-industrial-se-pueden-usar-casos-reales-o-inventados)
+3. [***Plantear dos casos prácticos DETALLADOS que repercutan en: derechos de creación artística y derechos de propiedad industrial. Se pueden usar casos reales o inventados.***](https://github.com/JCA2005/Ciberseguridad/blob/main/NC/RAG%20sobre%20la%20LPI.%20Casos%20pr%C3%A1cticos.md#plantear-dos-casos-pr%C3%A1cticos-detallados-que-repercutan-en-derechos-de-creaci%C3%B3n-art%C3%ADstica-y-derechos-de-propiedad-industrial-se-pueden-usar-casos-reales-o-inventados)
 
-4.[***Solicitar información al cuaderno creado anteriormente y compararla con el resultado de la web justicio.es***](https://github.com/JCA2005/Ciberseguridad/blob/main/NC/RAG%20sobre%20la%20LPI.%20Casos%20pr%C3%A1cticos.md#solicitar-informaci%C3%B3n-al-cuaderno-creado-anteriormente-y-compararla-con-el-resultado-de-la-web-justicioes)
+4. [***Solicitar información al cuaderno creado anteriormente y compararla con el resultado de la web justicio.es***](https://github.com/JCA2005/Ciberseguridad/blob/main/NC/RAG%20sobre%20la%20LPI.%20Casos%20pr%C3%A1cticos.md#solicitar-informaci%C3%B3n-al-cuaderno-creado-anteriormente-y-compararla-con-el-resultado-de-la-web-justicioes)
 
-5.[***Comparación NoteBookLM y Justicia:***](https://github.com/JCA2005/Ciberseguridad/blob/main/NC/RAG%20sobre%20la%20LPI.%20Casos%20pr%C3%A1cticos.md#comparaci%C3%B3n-notebooklm-y-justicia)
+5. [***Comparación NoteBookLM y Justicia:***](https://github.com/JCA2005/Ciberseguridad/blob/main/NC/RAG%20sobre%20la%20LPI.%20Casos%20pr%C3%A1cticos.md#comparaci%C3%B3n-notebooklm-y-justicia)
 
 
 ## Subir el texto de la Ley de Propiedad Intelectual.

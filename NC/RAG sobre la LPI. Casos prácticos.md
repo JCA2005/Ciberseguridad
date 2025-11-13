@@ -3,7 +3,8 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b2edbd6-81f1-4b0b-bec3-4e3239aca8cb" />
 
 ## Índice
-1. [***Subir el texto de la Ley de Propiedad Intelectual.***]([https://github.com/IES-Rafael-Alberti/25-26-Ciberseguridad-Grupo-5/blob/main/HE/Proyecto1.md#1-introducci%C3%B3n](http://github.com/JCA2005/Ciberseguridad/edit/main/NC/RAG%20sobre%20la%20LPI.%20Casos%20pr%C3%A1cticos.md#subir-el-texto-de-la-ley-de-propiedad-intelectual))
+
+1. [***Subir el texto de la Ley de Propiedad Intelectual.***](https://github.com/JCA2005/Ciberseguridad/blob/main/NC/RAG%20sobre%20la%20LPI.%20Casos%20pr%C3%A1cticos.md#subir-el-texto-de-la-ley-de-propiedad-intelectual)
 
 
 ## Subir el texto de la Ley de Propiedad Intelectual.

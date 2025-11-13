@@ -2,6 +2,9 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b2edbd6-81f1-4b0b-bec3-4e3239aca8cb" />
 
+## Índice
+
+http://github.com/JCA2005/Ciberseguridad/edit/main/NC/RAG%20sobre%20la%20LPI.%20Casos%20pr%C3%A1cticos.md#subir-el-texto-de-la-ley-de-propiedad-intelectual
 
 ## Subir el texto de la Ley de Propiedad Intelectual.
 
@@ -146,6 +149,139 @@ Si en un plazo de [Plazo breve, ej. 7 días] no cesa la actividad, se iniciarán
 
 ### Caso práctico 2 — Propiedad industrial (marca / nombre comercial)
 
+*Este caso práctico esta basado en caso real sobre mi proyecto final de grado superior:*
 
+#### Hechos:
+
+Una startup de pesca recreativa en Cádiz lanza una app llamada “PescAmigos” (nombre registrado pero sin expediente formal de marca). Otra empresa, denominada “PescAmigos Pro”, registra una marca denominativa a nivel nacional idéntica y lanza servicios similares y una web que compite directamente. La startup pequeña tiene siglos de actividad (uso público, redes y local) desde 2022 pero no registró formalmente la marca. Además, la otra empresa ha comprado dominios y usa el logo con colores y tipografías similares.
+
+#### Preguntas a resolver:
+
+1. ¿Qué protege la Ley de Marcas en España respecto a dominio de nombres y signos? (cita artículos aplicables del Texto refundido o legislación de marcas).
+
+2. ¿Qué derechos tiene la startup por uso previo no registrado? ¿Qué es más fuerte: el registro o el uso? Explica con detalle y citas jurídicas.
+
+3. ¿Qué vías de acción (administrativa y/o judicial) existen: oposición, nulidad, medidas cautelares, cesación de uso? Procedimiento, plazos y urgencias.
+
+4. Proponer argumentación y pruebas que la startup debería reunir (fecha de primera publicación, pruebas de uso continuado, descargas, capturas, contratos, anuncios).
+
+5. Redactar un requerimiento extrajudicial para paralizar uso y reclamar compensación, con referencias legales.
+
+#### Respuesta de NoteBookLM:
+
+La startup "PescAmigos" tiene uso previo (desde 2022) del nombre, pero la Empresa X ("PescAmigos Pro") obtuvo el registro formal posterior y explota el nombre y un logo similar. En España, los derechos de marca se constituyen principalmente por el registro (first to file), pero el uso previo y la mala fe del infractor son argumentos clave para la defensa.
+1. Protección de Nombres y Signos
+Aunque la Propiedad Industrial (marcas y signos distintivos) se rige por su propia ley (Ley de Marcas, no el TRLPI), los dominios se consideran signos distintivos electrónicos.
+• El registro es constitutivo de los derechos exclusivos de marca, y la falta de registro permite que un tercero "se haga formal y legalmente con la marca".
+2. Derechos por Uso Previo (Fuerza del Uso vs. Registro)
+El registro es más fuerte para conferir derechos exclusivos. Sin embargo, la startup puede argumentar que su uso continuado desde 2022 convierte a "PescAmigos" en una marca anterior o notoria.
+• Riesgo de Confusión: El registro de "PescAmigos Pro" y el uso de un logo similar crean un riesgo de confusión en el consumidor, lo cual es una forma de competencia desleal.
+• Mala Fe: La Empresa X podría haber actuado con mala fe si registró la marca conociendo el uso previo de la startup o buscando bloquearla (domain-grabbing).
+3. Vías de Acción Clave
+La startup tiene opciones administrativas (para anular el registro) y judiciales (para cesar el uso y reclamar daños):
+Vía de Acción
+Descripción Breve
+Articulado Aplicable (Analogía PI)
+Nulidad Administrativa/Judicial
+Solicitar que el registro de "PescAmigos Pro" sea declarado nulo demostrando el uso anterior de buena fe o la mala fe de la Empresa X.
+(Ley de Marcas, analogía con Art. 139, 140 TRLPI)
+Acción de Cesación
+Judicialmente, exigir la suspensión inmediata del uso del nombre, logo y dominios para detener la infracción.
+Art. 138, Art. 139 (Cese de actividad ilícita)
+Medidas Cautelares
+Solicitar al juez la adopción de medidas urgentes, como el secuestro de materiales o la retirada de publicidad y servicios, para detener el daño mientras se tramita el litigio.
+Art. 141 (Medidas cautelares)
+Acción de Competencia Desleal
+Demostrar que el uso de nombres y logos similares es un acto engañoso que induce a error sobre el origen del servicio y perjudica a la startup.
+(Ley de Competencia Desleal)
+4. Argumentación y Pruebas Necesarias
+La startup debe recopilar pruebas de su antigüedad y notoriedad:
+• Uso: Pruebas documentales del inicio de la actividad en 2022 (publicaciones en redes, web, fecha de la app, contratos).
+• Confusión: Comparación de los logos, colores y tipografías para demostrar la similitud y el acto engañoso.
+• Impacto Económico: Documentación de descargas y actividad económica para justificar el lucro cesante (ganancias no obtenidas) y el daño emergente (pérdidas sufridas).
+5. Requerimiento Extrajudicial (Esquema)
+El requerimiento debe exigir el cese y la compensación, citando la vulneración del signo distintivo:
+ASUNTO: REQUERIMIENTO LEGAL DE CESACIÓN Y COMPENSACIÓN POR INFRACCIÓN DE SIGNO DISTINTIVO Y COMPETENCIA DESLEAL.
+1. Identificación de la Infracción: Su uso de "PescAmigos Pro" y signos gráficos similares infringe nuestros derechos de marca previa o notoria desde 2022 y constituye un acto de competencia desleal. 2. Requerimiento de Cesación: Exigimos la retirada inmediata del nombre y logo, y la transferencia de los dominios adquiridos. 3. Reclamación Económica: Se reclama indemnización por daños materiales (lucro cesante, daño emergente) y por el perjuicio al prestigio de la marca. La compensación se calculará según el importe de una licencia hipotética. 4. Advertencia: Si en [Plazo breve] no cesa la actividad, se iniciarán acciones legales civiles y/o penales, incluyendo la solicitud de Medidas Cautelares Urgentes.
+
+<img width="1920" height="1020" alt="RAG sobre la LPI-8" src="https://github.com/user-attachments/assets/a411ded5-0eb7-4238-8272-e849813c3717" />
+
+## Solicitar información al cuaderno creado anteriormente y compararla con el resultado de la web justicio.es
+
+### Prompt NoteBookLM:
+
+```bash
+Analiza el Caso 1 y responde punto por punto. Para cada respuesta cita los artículos concretos de la Ley de Propiedad Intelectual y, si procede, disposiciones del Código Civil o sentencias relevantes. Indica con hipervínculo o referencia la fuente usada (BOE o jurisprudencia).
+```
+
+#### Respuesta NoteBookLN:
+
+María, como persona natural que crea una obra artística original (ilustraciones digitales), es la autora y adquiere la propiedad intelectual por el solo hecho de su creación, sin necesidad de registro. La propiedad intelectual está integrada por derechos de carácter personal (morales) y patrimonial (explotación).
+1. ¿Qué derechos posee María sobre las ilustraciones?
+Se vulneran los derechos morales (irrenunciables e inalienables) y los derechos patrimoniales (exclusivos de explotación).
+• Derecho Moral a la Paternidad: María tiene derecho a exigir el reconocimiento de su condición de autor de la obra, derecho que fue vulnerado al usar la Empresa X sus ilustraciones sin citarla. (Artículo 14.3.º TRLPI).
+• Derecho Moral a la Integridad: María tiene derecho a exigir el respeto a la integridad de la obra e impedir cualquier modificación o alteración. El recorte por parte del influencer y la modificación de colores/texto por el seguidor violan este derecho. (Artículo 14.4.º TRLPI).
+• Derecho Exclusivo de Explotación: Corresponde a María el ejercicio exclusivo de los derechos de explotación (reproducción, distribución, comunicación pública y transformación), los cuales no podrán ser realizados sin su autorización. (Artículo 17 TRLPI).
+2. ¿Se ha vulnerado la Reproducción, Comunicación Pública o Adaptación/Transformación?
+Sí, los tres derechos patrimoniales han sido vulnerados:
+• Vulneración del Derecho de Reproducción: Se produce cuando la Empresa X descarga y fija la obra, ya sea en soportes digitales o físicos (folletos impresos). (Artículo 18 TRLPI).
+• Vulneración del Derecho de Comunicación Pública: Se produce al poner la obra a disposición del público en campañas de redes sociales y blogs. La publicación en línea permite que cualquier persona acceda a la obra desde el lugar y en el momento que elija. (Artículo 20.2.i) TRLPI).
+• Vulneración del Derecho de Transformación (Adaptación): Se produce por el recorte de las ilustraciones y la modificación de colores/texto, que constituyen una modificación en su forma de la que se deriva una obra diferente. (Artículo 21 TRLPI).
+3. Acciones Legales, Procedimiento y Compensación
+María tiene derecho a solicitar la retirada y la indemnización de daños materiales y morales.
+• Cese de la Actividad (Retirada): María puede instar el cese de la actividad ilícita. Esto puede incluir la retirada del comercio de los ejemplares ilícitos (folletos impresos) y su destrucción. También puede solicitar la suspensión de los servicios prestados por intermediarios (redes sociales) a terceros que infrinjan los derechos. (Artículo 138 y Artículo 139 TRLPI).
+• Indemnización (Compensación Económica): María puede exigir la indemnización de los daños materiales y morales. Puede elegir, como criterio para fijar la indemnización, la cantidad que como remuneración hubiera percibido si el infractor hubiera solicitado autorización (remuneración hipotética). El daño moral procederá su indemnización aun no probada la existencia de perjuicio económico, atendiendo al grado de difusión ilícita de la obra y la gravedad de la lesión.
+• Medidas Cautelares y Plazo: Puede solicitar a la autoridad judicial medidas cautelares de protección urgente (como la suspensión de la actividad o el secuestro de ejemplares). La acción para reclamar daños y perjuicios prescribe a los cinco años.
+4. Consecuencias de la Marca de Agua o Publicación en Instagram
+La publicación de la obra en Internet (divulgación) no significa autorización para su explotación. La existencia de la marca de agua, si identifica al autor o las condiciones de uso, puede ser considerada información para la gestión electrónica de derechos. La supresión o alteración de dicha información por el infractor, a sabiendas de que induce a la infracción, permite a María ejercitar acciones legales adicionales. (Artículo 198 TRLPI).
+
+<img width="1920" height="1020" alt="RAG sobre la LPI-9" src="https://github.com/user-attachments/assets/da5e30a5-1440-46c4-b04b-553b634ae414" />
+
+### Prompt Justicia:
+
+```bash
+¿Qué artículos protegen derechos de reproducción y comunicación pública de obras artísticas?
+```
+
+#### Respuesta Justicia:
+
+Hola,
+
+La protección de tus derechos de reproducción y comunicación pública de obras artísticas se establece principalmente a través de la Ley de Propiedad Intelectual, tanto a nivel europeo como en España, garantizando tu control y remuneración.
+
+Para entenderlo en detalle, la Ley de Propiedad Intelectual es el conjunto de normas que protege los derechos de los creadores sobre sus obras, ya sean literarias, artísticas o científicas. Esta ley cubre dos tipos de derechos: los derechos morales, que son los que protegen tu vínculo personal con tu obra, como el reconocimiento de tu autoría y la integridad de la misma; y los derechos patrimoniales o de explotación, que son los que te permiten controlar cómo se usa tu obra y obtener beneficios económicos por ello. Los derechos de reproducción y comunicación pública son parte de estos derechos patrimoniales.
+
+En el ámbito de la legislación europea, existe una norma clave, la Directiva 2001/29/CE del Parlamento Europeo y del Consejo, que establece los derechos fundamentales para proteger la reproducción y la comunicación pública de las obras artísticas. Los artículos más importantes de esta directiva son:
+
+El Artículo 2, que se refiere al derecho de reproducción. Este artículo establece que los países de la Unión Europea deben reconocer a los creadores el derecho exclusivo de autorizar o prohibir que se hagan copias de sus obras, ya sea de forma directa o indirecta, temporal o permanente, y de toda la obra o solo de una parte. Esto se aplica a los autores de obras, a los artistas que interpretan o ejecutan una obra (sobre las grabaciones de sus actuaciones), a los productores de grabaciones de sonido (fonogramas), a los productores de las primeras grabaciones de películas, y a las emisoras de radio y televisión (organismos de radiodifusión) sobre las grabaciones de sus emisiones.
+El Artículo 3, que trata sobre el derecho de comunicación al público. Este artículo concede a los autores el derecho exclusivo de decidir si su obra se comunica o se pone a disposición del público, ya sea por medios con cable o inalámbricos. Esto incluye la posibilidad de que cualquier persona pueda acceder a la obra desde el lugar y en el momento que elija, como ocurre con los servicios de streaming. Este mismo derecho exclusivo también se otorga a los artistas, intérpretes o ejecutantes sobre las grabaciones de sus actuaciones, a los productores de grabaciones de sonido, a los productores de las primeras grabaciones de películas, y a las emisoras de radio y televisión sobre las grabaciones de sus emisiones.
+El Artículo 7, que habla de la protección jurídica. Este artículo exige a los países miembros que establezcan medidas legales adecuadas para proteger a los titulares de derechos contra quienes, a sabiendas, realicen actos sin autorización que infrinjan estos derechos, incluyendo la eliminación o alteración de la información que sirve para gestionar los derechos de forma electrónica.
+En resumen, esta legislación europea asegura que los derechos de reproducción y comunicación pública de las obras artísticas estén protegidos en toda Europa, permitiendo a los autores y a otros titulares de derechos controlar cómo se usan sus obras y recibir una compensación justa por su explotación.
+
+En España, la Ley de Propiedad Intelectual, regulada principalmente por el Real Decreto Legislativo 1/1996, de 12 de abril, también contiene artículos específicos que protegen estos derechos:
+
+El Artículo 20 define la comunicación pública como cualquier acción por la cual muchas personas pueden acceder a una obra sin que se les entreguen copias físicas de la misma. Es decir, es fundamental para entender cómo se puede disfrutar de obras artísticas sin necesidad de que se distribuyan ejemplares materiales.
+El Artículo 88 establece que, en el caso de las obras audiovisuales (como películas o series), los derechos de reproducción (hacer copias), distribución (repartir esas copias) y comunicación pública (mostrar la obra al público) se entienden como cedidos en exclusiva a los productores. Esto significa que los productores tienen el control sobre cómo se pueden copiar y comunicar públicamente estas obras.
+El Artículo 90 regula la remuneración de los autores de obras audiovisuales. Indica que estos autores tienen derecho a recibir un pago adecuado y proporcional cada vez que sus obras se proyectan, exhiben o transmiten, sin importar su nacionalidad.
+El Artículo 31 detalla las condiciones bajo las cuales se puede realizar la reproducción de obras ya divulgadas sin necesidad de autorización del autor. Esto incluye, por ejemplo, la posibilidad de hacer copias para uso privado, entre otros supuestos específicos.
+Para que lo veas más claro, un ejemplo práctico sería el de una sala de cine que proyecta una película. Según el Artículo 20, la sala debe asegurarse de tener los permisos necesarios para realizar esa comunicación pública de la obra a su audiencia. Además, de acuerdo con el Artículo 90, debe garantizar que los autores de la película reciban la remuneración correspondiente por esa proyección. Si la sala quisiera, por ejemplo, reproducir la película en un formato diferente para su distribución (como un DVD), debería tener en cuenta el Artículo 88 sobre la cesión de derechos de reproducción a los productores.
+
+Es importante que tanto las entidades que gestionan los derechos de autor como los propios creadores conozcan bien estas disposiciones para proteger sus obras y asegurarse de recibir una compensación justa por su uso.
+
+En resumen, tanto la legislación europea como la española te otorgan el poder de controlar cómo se copia y se muestra tu obra al público. Es como tener la llave de tu creación y decidir quién puede entrar a verla (comunicación pública) y quién puede hacer una copia de esa llave (reproducción), asegurando que recibes una compensación por ello.
+
+<img width="1920" height="1020" alt="RAG sobre la LPI-10" src="https://github.com/user-attachments/assets/42896410-e2f9-49e1-9fbc-9beefb1bb819" />
+
+### Comparación NoteBookLM y Justicia:
+
+| **Aspecto**                             | **NotebookLM**                                                    | **Justicio**                             | **Conclusión**                                   |
+| --------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------ |
+| **Base legal**                          | TRLPI (Ley española, artículos citados).                          | Directiva 2001/29/CE + TRLPI.            | NotebookLM más preciso, Justicio más contextual. |
+| **Derechos del autor**                  | Explica derechos morales y patrimoniales con artículos.           | Explicación general sin citas concretas. | NotebookLM más técnico.                          |
+| **Reproducción y comunicación pública** | Cita arts. 18 y 20 TRLPI.                                         | Usa arts. 2 y 3 de la Directiva.         | Ambos coinciden; distinta fuente.                |
+| **Transformación/adaptación**           | Incluye art. 21 TRLPI.                                            | No lo menciona.                          | Falta en Justicio.                               |
+| **Acciones legales e indemnización**    | Detalla cese, medidas cautelares e indemnización (arts. 138–139). | No especifica procedimientos.            | NotebookLM más útil en la práctica.              |
+| **Protección digital / marca de agua**  | Art. 198 TRLPI.                                                   | Art. 7 de la Directiva.                  | Coinciden en esencia.                            |
+| **Nivel de detalle**                    | Jurídico, con artículos y ejemplos aplicados.                     | Explicativo, más general y pedagógico.   | NotebookLM técnico; Justicio divulgativo.        |
 
 

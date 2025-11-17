@@ -1,0 +1,1292 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D64E-5698
+
+ Directory of C:\Users\Administrador
+
+17/11/2025  12:18    <DIR>          .
+17/11/2025  12:18    <DIR>          ..
+09/08/2017  18:05    <DIR>          .idlerc
+30/06/2017  18:42    <DIR>          Contacts
+17/11/2025  12:26    <DIR>          Desktop
+19/07/2017  12:45    <DIR>          Documents
+30/06/2017  18:42    <DIR>          Downloads
+30/06/2017  18:42    <DIR>          Favorites
+30/06/2017  18:42    <DIR>          Links
+17/11/2025  12:18             3.746 listado.txt
+30/06/2017  18:42    <DIR>          Music
+30/06/2017  18:42    <DIR>          Pictures
+30/06/2017  18:42    <DIR>          Saved Games
+30/06/2017  18:42    <DIR>          Searches
+30/06/2017  18:42    <DIR>          Videos
+               1 File(s)          3.746 bytes
+
+ Directory of C:\Users\Administrador\.idlerc
+
+09/08/2017  18:05    <DIR>          .
+09/08/2017  18:05    <DIR>          ..
+09/08/2017  18:06                 0 breakpoints.lst
+28/12/2018  10:37                45 recent-files.lst
+               2 File(s)             45 bytes
+
+ Directory of C:\Users\Administrador\AppData
+
+17/11/2025  11:55    <DIR>          Local
+30/06/2017  18:43    <DIR>          LocalLow
+30/06/2017  18:41    <DIR>          Roaming
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local
+
+17/11/2025  11:55    <DIR>          .
+17/11/2025  11:55    <DIR>          ..
+17/11/2025  11:55    <DIR>          Diagnostics
+28/12/2018  09:18            57.560 GDIPFONTCACHEV1.DAT
+17/11/2025  11:55    <DIR>          Microsoft
+28/12/2018  08:50    <DIR>          Programs
+17/11/2025  12:25    <DIR>          Temp
+30/06/2017  18:41    <DIR>          VirtualStore
+               1 File(s)         57.560 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Diagnostics
+
+17/11/2025  11:55    <DIR>          .
+17/11/2025  11:55    <DIR>          ..
+17/11/2025  11:55    <DIR>          460911090
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Diagnostics\460911090
+
+17/11/2025  11:55    <DIR>          .
+17/11/2025  11:55    <DIR>          ..
+17/11/2025  11:55    <DIR>          2025111710.000
+17/11/2025  11:55            19.905 latest.cab
+               1 File(s)         19.905 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Diagnostics\460911090\2025111710.000
+
+17/11/2025  11:55    <DIR>          .
+17/11/2025  11:55    <DIR>          ..
+17/11/2025  11:55            32.768 BA1FF11B-CF88-4D48-8C0C-94D25173682D.Diagnose.0.etl
+17/11/2025  11:55             1.417 NetworkConfiguration.cab
+17/11/2025  11:55            67.752 NetworkDiagnostics.0.debugreport.xml
+17/11/2025  11:55            35.743 ResultReport.xml
+17/11/2025  11:55               253 results.xml
+17/11/2025  11:55            48.956 results.xsl
+               6 File(s)        186.889 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft
+
+17/11/2025  11:55    <DIR>          .
+17/11/2025  11:55    <DIR>          ..
+28/12/2018  08:56    <DIR>          Device Metadata
+16/07/2017  18:46    <DIR>          Event Viewer
+30/06/2017  18:42    <DIR>          Feeds
+23/10/2018  21:15    <DIR>          Internet Explorer
+30/06/2017  18:42    <DIR>          Media Player
+17/11/2025  11:55    <DIR>          NetTraces
+17/11/2025  11:40    <DIR>          Windows
+30/06/2017  18:42    <DIR>          Windows Mail
+30/06/2017  18:41    <DIR>          Windows Media
+30/06/2017  18:42    <DIR>          Windows Sidebar
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Device Metadata
+
+28/12/2018  08:56    <DIR>          .
+28/12/2018  08:56    <DIR>          ..
+28/12/2018  08:56           777.104 dmrc.idx
+28/12/2018  08:42    <DIR>          dmrccache
+               1 File(s)        777.104 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Device Metadata\dmrccache
+
+28/12/2018  08:42    <DIR>          .
+28/12/2018  08:42    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Event Viewer
+
+16/07/2017  18:46    <DIR>          .
+16/07/2017  18:46    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Feeds
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+30/06/2017  18:42    <DIR>          Feeds for United States~
+23/10/2018  21:15             7.168 FeedsStore.feedsdb-ms
+30/06/2017  18:42    <DIR>          Microsoft Feeds~
+               1 File(s)          7.168 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Feeds\Feeds for United States~
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+30/06/2017  18:42            28.672 Popular Government Questions from USA~dgov~.feed-ms
+30/06/2017  18:42            28.672 USA~dgov Updates~c News and Features~.feed-ms
+               2 File(s)         57.344 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Feeds\Microsoft Feeds~
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+30/06/2017  18:42            28.672 Microsoft at Home~.feed-ms
+30/06/2017  18:42            28.672 Microsoft at Work~.feed-ms
+30/06/2017  18:42            28.672 MSNBC News~.feed-ms
+               3 File(s)         86.016 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Feeds\{5588ACFD-6436-411B-A5CE-666AE6A92D3D}~\WebSlices~
+
+23/10/2018  21:15            32.768 Suggested Sites~.feed-ms
+30/06/2017  18:42            28.672 Web Slice Gallery~.feed-ms
+               2 File(s)         61.440 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Feeds Cache\082HSCXW
+
+30/06/2017  18:42                 0 fwlink[1]
+23/10/2018  21:15                 0 ieonline.microsoft[1]
+               2 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Feeds Cache\8AVOO7G6
+
+30/06/2017  18:42                 0 fwlink[1]
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Feeds Cache\KQQU7OL7
+
+30/06/2017  18:42                 0 fwlink[1]
+30/06/2017  18:42                 0 fwlink[2]
+               2 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Feeds Cache\UFIA6QV8
+
+30/06/2017  18:42                 0 fwlink[1]
+30/06/2017  18:42                 0 fwlink[2]
+               2 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Internet Explorer
+
+23/10/2018  21:15    <DIR>          .
+23/10/2018  21:15    <DIR>          ..
+30/06/2017  18:42            12.201 brndlog.bak
+30/06/2017  18:42            12.201 brndlog.txt
+17/11/2025  11:56             9.476 frameiconcache.dat
+23/10/2018  21:15    <DIR>          Recovery
+               3 File(s)         33.878 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Internet Explorer\Recovery
+
+23/10/2018  21:15    <DIR>          .
+23/10/2018  21:15    <DIR>          ..
+17/11/2025  11:56    <DIR>          Active
+17/11/2025  11:56    <DIR>          Last Active
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Internet Explorer\Recovery\Active
+
+17/11/2025  11:56    <DIR>          .
+17/11/2025  11:56    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Internet Explorer\Recovery\Last Active
+
+17/11/2025  11:56    <DIR>          .
+17/11/2025  11:56    <DIR>          ..
+17/11/2025  11:56             4.608 RecoveryStore.{5D9EEBDF-D700-11E8-9C18-005056BEB581}.dat
+17/11/2025  11:56             9.216 {1FD1B3D9-C3A4-11F0-8F34-0800275782D9}.dat
+               2 File(s)         13.824 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Media Player
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+30/06/2017  18:42         1.069.056 CurrentDatabase_372.wmdb
+30/06/2017  18:42            69.740 LocalMLS_3.wmdb
+30/06/2017  18:41    <DIR>          Sync Playlists
+               2 File(s)      1.138.796 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Media Player\Sync Playlists
+
+30/06/2017  18:41    <DIR>          .
+30/06/2017  18:41    <DIR>          ..
+30/06/2017  18:41    <DIR>          en-US
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Media Player\Sync Playlists\en-US
+
+30/06/2017  18:41    <DIR>          .
+30/06/2017  18:41    <DIR>          ..
+30/06/2017  18:41    <DIR>          00057454
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Media Player\Sync Playlists\en-US\00057454
+
+30/06/2017  18:41    <DIR>          .
+30/06/2017  18:41    <DIR>          ..
+30/06/2017  18:41             1.044 01_Music_auto_rated_at_5_stars.wpl
+30/06/2017  18:41             1.279 02_Music_added_in_the_last_month.wpl
+30/06/2017  18:41             1.267 03_Music_rated_at_4_or_5_stars.wpl
+30/06/2017  18:41             1.284 04_Music_played_in_the_last_month.wpl
+30/06/2017  18:41               797 05_Pictures_taken_in_the_last_month.wpl
+30/06/2017  18:41               785 06_Pictures_rated_4_or_5_stars.wpl
+30/06/2017  18:41             1.040 07_TV_recorded_in_the_last_week.wpl
+30/06/2017  18:41             1.020 08_Video_rated_at_4_or_5_stars.wpl
+30/06/2017  18:41             1.025 09_Music_played_the_most.wpl
+30/06/2017  18:41             1.063 10_All_Music.wpl
+30/06/2017  18:41               585 11_All_Pictures.wpl
+30/06/2017  18:41             1.079 12_All_Video.wpl
+              12 File(s)         12.268 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\NetTraces
+
+17/11/2025  11:55    <DIR>          .
+17/11/2025  11:55    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows
+
+17/11/2025  11:40    <DIR>          .
+17/11/2025  11:40    <DIR>          ..
+16/07/2017  18:38    <DIR>          1033
+30/06/2017  18:42    <DIR>          Burn
+17/11/2025  12:17    <DIR>          Caches
+30/06/2017  18:42    <DIR>          Explorer
+14/07/2009  03:34    <DIR>          GameExplorer
+30/06/2017  18:41    <DIR>          Ringtones
+23/10/2018  20:43    <DIR>          Themes
+09/08/2017  18:06    <DIR>          WER
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\1033
+
+16/07/2017  18:38    <DIR>          .
+16/07/2017  18:38    <DIR>          ..
+16/07/2017  18:38           297.531 StructuredQuerySchema.bin
+               1 File(s)        297.531 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\Burn
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\Caches
+
+17/11/2025  12:17    <DIR>          .
+17/11/2025  12:17    <DIR>          ..
+16/07/2017  18:48            16.384 cversions.1.db
+17/11/2025  12:13           113.184 {AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000008.db
+17/11/2025  12:17           111.752 {AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000009.db
+               3 File(s)        241.320 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\Explorer
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+30/06/2017  18:42            24.576 ExplorerStartupLog.etl
+30/06/2017  18:41            16.384 ExplorerStartupLog_RunOnce.etl
+30/06/2017  18:42                24 thumbcache_1024.db
+30/06/2017  18:42         1.048.576 thumbcache_256.db
+30/06/2017  18:42         1.048.576 thumbcache_32.db
+30/06/2017  18:42         1.048.576 thumbcache_96.db
+28/12/2018  09:11             6.488 thumbcache_idx.db
+30/06/2017  18:42                24 thumbcache_sr.db
+               8 File(s)      3.193.224 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\GameExplorer
+
+14/07/2009  03:34    <DIR>          .
+14/07/2009  03:34    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\Ringtones
+
+30/06/2017  18:41    <DIR>          .
+30/06/2017  18:41    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\728VZ1HV
+
+23/10/2018  21:15               237 favicon[1].png
+               1 File(s)            237 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\AYNYKHQ8
+
+17/11/2025  11:55             4.286 favicon[1].ico
+               1 File(s)          4.286 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\F3EIFC6T
+
+23/10/2018  21:15               237 favicon[1].png
+               1 File(s)            237 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\YQFPI2I1
+
+23/10/2018  21:15            17.174 favicon[1].ico
+               1 File(s)         17.174 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\Temporary Internet Files\Low
+
+23/10/2018  21:15    <DIR>          AntiPhishing
+23/10/2018  21:15            16.384 MSIMGSIZ.DAT
+               1 File(s)         16.384 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\Temporary Internet Files\Low\AntiPhishing
+
+23/10/2018  21:15    <DIR>          .
+23/10/2018  21:15    <DIR>          ..
+23/10/2018  21:15           294.804 2CEDBFBC-DBA8-43AA-B1FD-CC8E6316E3E2.dat
+               1 File(s)        294.804 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\Temporary Internet Files\Low\Content.IE5\08UYGWPX
+
+17/11/2025  11:55             5.849 3YUbGQ75v1RodneurDqn2YE2SLI[1].png
+23/10/2018  21:15           114.942 af-bbef21[1]
+23/10/2018  21:15             2.855 angular-locale_en-us[1].js
+17/11/2025  11:56             5.947 dnserror[1]
+17/11/2025  11:56             3.414 down[1]
+17/11/2025  11:56             1.817 errorPageStrings[1]
+23/10/2018  21:15            11.582 meversion[1]
+17/11/2025  11:55           257.979 search[1].htm
+               8 File(s)        404.385 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\Temporary Internet Files\Low\Content.IE5\EW7RMOSN
+
+23/10/2018  21:15           149.391 50-84b307[1].txt
+23/10/2018  21:15           506.982 jslibraries[1]
+17/11/2025  11:56                 0 l[1]
+23/10/2018  21:15            17.516 mwfmdl2-v2.94[1].eot
+17/11/2025  11:56             8.230 noConnect[1]
+17/11/2025  11:56             3.560 tools[1]
+17/11/2025  11:55            34.939 UeTiTKFnvPGz13en6PrlV5-82wU.gz[1].js
+23/10/2018  21:15            14.806 wc-utils[1].txt
+               8 File(s)        735.424 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\Temporary Internet Files\Low\Content.IE5\I7C603X4
+
+17/11/2025  11:55               461 5rqGloMo94v3vwNVR5OsxDNd8d0[1].svg
+17/11/2025  11:56             2.168 ErrorPageTemplate[1]
+17/11/2025  11:56             3.366 favcenter[1]
+17/11/2025  11:56             8.601 httpErrorPagesScripts[1]
+23/10/2018  21:15           355.196 mwf-main.var.min[1].js
+23/10/2018  21:15           817.335 mwf-west-european-default.min[1].css
+23/10/2018  21:15            18.367 mwfmdl2-v2.98[1].eot
+17/11/2025  11:56           180.533 search[1].htm
+               8 File(s)      1.386.027 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\Temporary Internet Files\Low\Content.IE5\U8ZVDNVU
+
+23/10/2018  21:15           374.327 application[1]
+17/11/2025  11:56               453 background_gradient[1]
+23/10/2018  21:15           148.084 css[1].txt
+17/11/2025  11:56                 0 GLinkPing[1].aspx
+17/11/2025  11:55                 0 l[1]
+23/10/2018  21:15               476 override[1].css
+23/10/2018  21:15             4.054 RE1Mu3b[1].png
+               7 File(s)        527.394 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\Temporary Internet Files\Virtualized
+
+23/10/2018  21:15    <DIR>          C
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\Temporary Internet Files\Virtualized\C
+
+23/10/2018  21:15    <DIR>          .
+23/10/2018  21:15    <DIR>          ..
+23/10/2018  21:15    <DIR>          Users
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\Temporary Internet Files\Virtualized\C\Users
+
+23/10/2018  21:15    <DIR>          .
+23/10/2018  21:15    <DIR>          ..
+23/10/2018  21:15    <DIR>          Administrador
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\Temporary Internet Files\Virtualized\C\Users\Administrador
+
+23/10/2018  21:15    <DIR>          .
+23/10/2018  21:15    <DIR>          ..
+23/10/2018  21:15    <DIR>          AppData
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\Temporary Internet Files\Virtualized\C\Users\Administrador\AppData
+
+23/10/2018  21:15    <DIR>          .
+23/10/2018  21:15    <DIR>          ..
+23/10/2018  21:15    <DIR>          Roaming
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\Temporary Internet Files\Virtualized\C\Users\Administrador\AppData\Roaming
+
+23/10/2018  21:15    <DIR>          .
+23/10/2018  21:15    <DIR>          ..
+23/10/2018  21:15    <DIR>          Microsoft
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\Temporary Internet Files\Virtualized\C\Users\Administrador\AppData\Roaming\Microsoft
+
+23/10/2018  21:15    <DIR>          .
+23/10/2018  21:15    <DIR>          ..
+23/10/2018  21:15    <DIR>          Windows
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\Temporary Internet Files\Virtualized\C\Users\Administrador\AppData\Roaming\Microsoft\Windows
+
+23/10/2018  21:15    <DIR>          .
+23/10/2018  21:15    <DIR>          ..
+23/10/2018  21:15    <DIR>          PrivacIE
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\Temporary Internet Files\Virtualized\C\Users\Administrador\AppData\Roaming\Microsoft\Windows\PrivacIE
+
+23/10/2018  21:15    <DIR>          .
+23/10/2018  21:15    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\Themes
+
+23/10/2018  20:43    <DIR>          .
+23/10/2018  20:43    <DIR>          ..
+23/10/2018  20:43             1.848 Custom.theme
+               1 File(s)          1.848 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\WER
+
+09/08/2017  18:06    <DIR>          .
+09/08/2017  18:06    <DIR>          ..
+17/11/2025  12:20    <DIR>          ERC
+30/06/2017  18:44    <DIR>          ReportArchive
+17/11/2025  11:55    <DIR>          ReportQueue
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\WER\ERC
+
+17/11/2025  12:20    <DIR>          .
+17/11/2025  12:20    <DIR>          ..
+09/08/2017  18:06                 0 queuepester.txt
+09/08/2017  18:06                 0 viewedids.resp
+               2 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\WER\ReportArchive
+
+30/06/2017  18:44    <DIR>          .
+30/06/2017  18:44    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\WER\ReportQueue
+
+17/11/2025  11:55    <DIR>          .
+17/11/2025  11:55    <DIR>          ..
+17/11/2025  11:54    <DIR>          AppCrash_QkryuzzwVu.exe_4cee49ee15d7603be950a8ce273b83ccb1d93a2d_0af1bc1d
+17/11/2025  11:55    <DIR>          AppCrash_QkryuzzwVu.exe_4cee49ee15d7603be950a8ce273b83ccb1d93a2d_cab_0af156e5
+17/11/2025  11:55    <DIR>          AppCrash_QkryuzzwVu.exe_a777af8e2547846022d213fef7ff5c91b811d4b_cab_07c589b8
+17/11/2025  11:56    <DIR>          AppCrash_QkryuzzwVu.exe_cfd3221cc9688ce6fe2835ed43bcb30105a42d_cab_02852451
+17/11/2025  11:56    <DIR>          AppHang_{C0542A90-4BF0-1_13d9f01ebfd579ef9d63094658a64965597b7b_cab_0a94cb3a
+17/11/2025  11:56    <DIR>          AppHang_{F3364BA0-65B9-1_03f722b1c3a9f7342b324b90c4342939636d4_cab_0a1b0924
+17/11/2025  11:55    <DIR>          NonCritical_Microsoft Window_bd5996727e9ea1acda90841fa2c99a88df4fb9d6_cab_07e56310
+17/11/2025  11:57    <DIR>          NonCritical_x64_17d0828db4c1e349e1d7984f6f6fb9bbc8bc78_cab_04bf0fb9
+17/11/2025  11:57    <DIR>          NonCritical_x64_2069f6a335b3a4a48372e5aa5a4778d07e65bb_cab_08370fb9
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\WER\ReportQueue\AppCrash_QkryuzzwVu.exe_4cee49ee15d7603be950a8ce273b83ccb1d93a2d_0af1bc1d
+
+17/11/2025  11:54    <DIR>          .
+17/11/2025  11:54    <DIR>          ..
+17/11/2025  11:54             5.528 Report.wer
+               1 File(s)          5.528 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\WER\ReportQueue\AppCrash_QkryuzzwVu.exe_4cee49ee15d7603be950a8ce273b83ccb1d93a2d_cab_0af156e5
+
+17/11/2025  11:55    <DIR>          .
+17/11/2025  11:55    <DIR>          ..
+17/11/2025  11:55             7.112 Report.wer
+28/12/2018  09:50             2.938 WER4C5B.tmp.WERInternalMetadata.xml
+28/12/2018  09:50             3.658 WER5698.tmp.appcompat.txt
+28/12/2018  09:50           617.153 WER56A9.tmp.hdmp
+28/12/2018  09:50           196.611 WER56D9.tmp.mdmp
+               5 File(s)        827.472 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\WER\ReportQueue\AppCrash_QkryuzzwVu.exe_a777af8e2547846022d213fef7ff5c91b811d4b_cab_07c589b8
+
+17/11/2025  11:55    <DIR>          .
+17/11/2025  11:55    <DIR>          ..
+17/11/2025  11:55             7.112 Report.wer
+28/12/2018  09:50             2.938 WER7EFE.tmp.WERInternalMetadata.xml
+28/12/2018  09:50             3.658 WER893C.tmp.appcompat.txt
+28/12/2018  09:51           617.057 WER894D.tmp.hdmp
+28/12/2018  09:51           196.611 WER896D.tmp.mdmp
+               5 File(s)        827.376 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\WER\ReportQueue\AppCrash_QkryuzzwVu.exe_cfd3221cc9688ce6fe2835ed43bcb30105a42d_cab_02852451
+
+17/11/2025  11:56    <DIR>          .
+17/11/2025  11:56    <DIR>          ..
+17/11/2025  11:56             7.112 Report.wer
+28/12/2018  09:50             2.938 WER1959.tmp.WERInternalMetadata.xml
+28/12/2018  09:50             3.658 WER2397.tmp.appcompat.txt
+28/12/2018  09:50           617.105 WER23B7.tmp.hdmp
+28/12/2018  09:50           196.611 WER2435.tmp.mdmp
+               5 File(s)        827.424 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\WER\ReportQueue\AppHang_{C0542A90-4BF0-1_13d9f01ebfd579ef9d63094658a64965597b7b_cab_0a94cb3a
+
+17/11/2025  11:56    <DIR>          .
+17/11/2025  11:56    <DIR>          ..
+17/11/2025  11:56            21.766 Report.wer
+23/10/2018  21:06             2.158 WERCB3A.tmp.WERInternalMetadata.xml
+               2 File(s)         23.924 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\WER\ReportQueue\AppHang_{F3364BA0-65B9-1_03f722b1c3a9f7342b324b90c4342939636d4_cab_0a1b0924
+
+17/11/2025  11:56    <DIR>          .
+17/11/2025  11:56    <DIR>          ..
+17/11/2025  11:56            18.822 Report.wer
+28/12/2018  08:52             2.154 WER924.tmp.WERInternalMetadata.xml
+               2 File(s)         20.976 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\WER\ReportQueue\NonCritical_Microsoft Window_bd5996727e9ea1acda90841fa2c99a88df4fb9d6_cab_07e56310
+
+17/11/2025  11:55    <DIR>          .
+17/11/2025  11:55    <DIR>          ..
+17/11/2025  11:55            19.905 Pkg62F0.cab
+17/11/2025  11:55             1.814 Report.wer
+               2 File(s)         21.719 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\WER\ReportQueue\NonCritical_x64_17d0828db4c1e349e1d7984f6f6fb9bbc8bc78_cab_04bf0fb9
+
+17/11/2025  11:57    <DIR>          .
+17/11/2025  11:57    <DIR>          ..
+17/11/2025  11:57             1.994 Report.wer
+               1 File(s)          1.994 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows\WER\ReportQueue\NonCritical_x64_2069f6a335b3a4a48372e5aa5a4778d07e65bb_cab_08370fb9
+
+17/11/2025  11:57    <DIR>          .
+17/11/2025  11:57    <DIR>          ..
+17/11/2025  11:57             1.994 Report.wer
+               1 File(s)          1.994 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows Mail
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+30/06/2017  18:41             1.736 account{781CD4C1-4C86-4CA7-8C34-67808ADD6706}.oeaccount
+30/06/2017  18:41             1.508 account{79F6B55C-C2C9-41B9-B769-105BD50D39E9}.oeaccount
+30/06/2017  18:41               672 account{F46ADDAE-1579-4ABC-8E77-18712D4643A7}.oeaccount
+30/06/2017  18:41    <DIR>          Backup
+30/06/2017  18:42             8.192 edb.chk
+30/06/2017  18:42         2.097.152 edb.log
+30/06/2017  18:41         2.097.152 edb00001.log
+30/06/2017  18:41         2.097.152 edbres00001.jrs
+30/06/2017  18:41         2.097.152 edbres00002.jrs
+30/06/2017  18:41               260 oeold.xml
+30/06/2017  18:42         2.113.536 WindowsMail.MSMessageStore
+30/06/2017  18:41            16.384 WindowsMail.pat
+              11 File(s)     10.530.896 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows Mail\Backup
+
+30/06/2017  18:41    <DIR>          .
+30/06/2017  18:41    <DIR>          ..
+30/06/2017  18:41    <DIR>          new
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows Mail\Backup\new
+
+30/06/2017  18:41    <DIR>          .
+30/06/2017  18:41    <DIR>          ..
+30/06/2017  18:41         2.097.152 edb00001.log
+30/06/2017  18:41         2.121.728 WindowsMail.MSMessageStore
+30/06/2017  18:41            16.384 WindowsMail.pat
+               3 File(s)      4.235.264 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows Mail\Stationery
+
+14/07/2009  00:01               255 Bears.htm
+10/06/2009  21:47             1.074 Bears.jpg
+10/06/2009  21:44             2.575 Blue_Gradient.jpg
+10/06/2009  21:44             4.587 Cave_Drawings.gif
+10/06/2009  21:44             2.319 Connectivity.gif
+10/06/2009  21:44             3.792 Dotted_Lines.emf
+14/07/2009  00:01               231 Garden.htm
+10/06/2009  21:47            23.871 Garden.jpg
+10/06/2009  21:44             5.524 Genko_1.emf
+10/06/2009  21:44            10.340 Genko_2.emf
+10/06/2009  21:44           116.724 Graph.emf
+14/07/2009  00:01               237 Green Bubbles.htm
+10/06/2009  21:47             6.406 GreenBubbles.jpg
+10/06/2009  21:44             2.920 grid_(cm).wmf
+10/06/2009  21:44             7.498 grid_(inch).wmf
+14/07/2009  00:01               235 Hand Prints.htm
+10/06/2009  21:47             4.222 HandPrints.jpg
+10/06/2009  21:44           152.300 Memo.emf
+10/06/2009  21:44             2.209 Monet.jpg
+10/06/2009  21:44             4.192 Month_Calendar.emf
+10/06/2009  21:44            26.036 Music.emf
+10/06/2009  21:44             2.950 Notebook.jpg
+14/07/2009  00:01               237 Orange Circles.htm
+10/06/2009  21:47             6.381 OrangeCircles.jpg
+14/07/2009  00:01               232 Peacock.htm
+10/06/2009  21:47             5.115 Peacock.jpg
+10/06/2009  21:44             3.981 Pine_Lumber.jpg
+10/06/2009  21:44             5.115 Pretty_Peacock.jpg
+10/06/2009  21:44            14.049 Psychedelic.jpg
+14/07/2009  00:01               233 Roses.htm
+10/06/2009  21:47             1.920 Roses.jpg
+10/06/2009  21:44            15.776 Sand_Paper.jpg
+10/06/2009  21:44            37.316 Seyes.emf
+14/07/2009  00:01               237 Shades of Blue.htm
+10/06/2009  21:47             4.734 ShadesOfBlue.jpg
+10/06/2009  21:44            81.292 Shorthand.emf
+10/06/2009  21:44             1.990 Small_News.jpg
+14/07/2009  00:01               232 Soft Blue.htm
+10/06/2009  21:47            10.569 SoftBlue.jpg
+14/07/2009  00:01               230 Stars.htm
+10/06/2009  21:47             7.505 Stars.jpg
+10/06/2009  21:44             1.864 Stucco.gif
+10/06/2009  21:44             3.650 Tanspecks.jpg
+10/06/2009  21:44             4.638 Tiki.gif
+10/06/2009  21:44            26.720 To_Do_List.emf
+10/06/2009  21:44             3.168 White_Chocolate.jpg
+10/06/2009  21:44            15.063 Wrinkled_Paper.gif
+              47 File(s)        632.744 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows Media
+
+30/06/2017  18:41    <DIR>          .
+30/06/2017  18:41    <DIR>          ..
+30/06/2017  18:41    <DIR>          12.0
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows Media\12.0
+
+30/06/2017  18:41    <DIR>          .
+30/06/2017  18:41    <DIR>          ..
+30/06/2017  18:41               498 WMSDKNS.DTD
+30/06/2017  18:41            10.191 WMSDKNS.XML
+               2 File(s)         10.689 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows Sidebar
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+30/06/2017  18:42    <DIR>          Gadgets
+30/06/2017  18:42                84 Settings.ini
+               1 File(s)             84 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Microsoft\Windows Sidebar\Gadgets
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Programs
+
+28/12/2018  08:50    <DIR>          .
+28/12/2018  08:50    <DIR>          ..
+28/12/2018  08:50    <DIR>          Common
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Programs\Common
+
+28/12/2018  08:50    <DIR>          .
+28/12/2018  08:50    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Temp
+
+17/11/2025  12:25    <DIR>          .
+17/11/2025  12:25    <DIR>          ..
+30/06/2017  18:41            49.208 Administrador.bmp
+28/12/2018  09:17             5.934 ASPNETSetup_00000.log
+28/12/2018  09:17             4.650 ASPNETSetup_00001.log
+28/12/2018  09:18             1.037 dd_dotNetFx40_Full_x86_x64_decompression_log.txt
+28/12/2018  09:18               660 dd_SetupUtility.txt
+30/06/2017  18:44           415.514 dd_vcredistMSI1B6B.txt
+30/06/2017  18:44           420.462 dd_vcredistMSI1B96.txt
+30/06/2017  18:44            11.742 dd_vcredistUI1B6B.txt
+30/06/2017  18:44            11.630 dd_vcredistUI1B96.txt
+28/12/2018  09:17            25.958 dd_wcf_CA_smci_20181228_081724_114.txt
+28/12/2018  09:17            25.622 dd_wcf_CA_smci_20181228_081730_244.txt
+30/06/2017  18:42                 0 FXSAPIDebugLogFile.txt
+23/10/2018  21:15    <DIR>          Low
+28/12/2018  09:17         7.181.316 Microsoft .NET Framework 4 Setup_20181228_091328085-MSI_netfx_Core_x64.msi.txt
+28/12/2018  09:18         3.508.418 Microsoft .NET Framework 4 Setup_20181228_091328085-MSI_netfx_Extended_x64.msi.txt
+28/12/2018  09:18           745.296 Microsoft .NET Framework 4 Setup_20181228_091328085.html
+28/12/2018  09:13    <DIR>          Microsoft .NET Framework 4 Setup_4.0.30319
+17/11/2025  11:55    <DIR>          msdt
+17/11/2025  12:25    <DIR>          rad42178.tmp
+17/11/2025  11:40    <DIR>          rad4323D.tmp
+03/09/2019  04:35    <DIR>          rad4BA3C.tmp
+17/11/2025  12:25    <DIR>          rad7AE17.tmp
+17/11/2025  12:10    <DIR>          rad891EF.tmp
+17/11/2025  11:40    <DIR>          rad9AF2F.tmp
+17/11/2025  12:14    <DIR>          radC661B.tmp
+28/12/2018  09:17            10.668 RGI8F39.tmp
+28/12/2018  09:17             9.234 RGI8F39.tmp-tmp
+28/12/2018  08:50           147.832 Setup Log 2018-12-28 #001.txt
+28/12/2018  09:18             3.932 TFR208.tmp
+30/06/2017  20:51           109.451 vminst.log_20170630_215142.log
+30/06/2017  20:51         3.011.348 vmmsi.log_20170630_215142.log
+30/06/2017  18:42               967 wmsetup.log
+17/11/2025  12:17    <DIR>          WPDNSE
+              22 File(s)     15.700.879 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Temp\Low
+
+23/10/2018  21:15    <DIR>          .
+23/10/2018  21:15    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Temp\Microsoft .NET Framework 4 Setup_4.0.30319
+
+28/12/2018  09:13    <DIR>          .
+28/12/2018  09:13    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Temp\msdt
+
+17/11/2025  11:55    <DIR>          .
+17/11/2025  11:55    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Temp\rad42178.tmp
+
+17/11/2025  12:25    <DIR>          .
+17/11/2025  12:25    <DIR>          ..
+17/11/2025  12:25            73.802 KzcmVNSNkYkueQf.exe
+               1 File(s)         73.802 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Temp\rad4323D.tmp
+
+17/11/2025  11:40    <DIR>          .
+17/11/2025  11:40    <DIR>          ..
+17/11/2025  11:40            73.802 QkryuzzwVu.exe
+               1 File(s)         73.802 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Temp\rad4BA3C.tmp
+
+03/09/2019  04:35    <DIR>          .
+03/09/2019  04:35    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Temp\rad7AE17.tmp
+
+17/11/2025  12:25    <DIR>          .
+17/11/2025  12:25    <DIR>          ..
+17/11/2025  12:25            73.802 QkryuzzwVu.exe
+               1 File(s)         73.802 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Temp\rad891EF.tmp
+
+17/11/2025  12:10    <DIR>          .
+17/11/2025  12:10    <DIR>          ..
+17/11/2025  12:10            73.802 QkryuzzwVu.exe
+               1 File(s)         73.802 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Temp\rad9AF2F.tmp
+
+17/11/2025  11:40    <DIR>          .
+17/11/2025  11:40    <DIR>          ..
+17/11/2025  11:40            73.802 KzcmVNSNkYkueQf.exe
+               1 File(s)         73.802 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Temp\radC661B.tmp
+
+17/11/2025  12:14    <DIR>          .
+17/11/2025  12:14    <DIR>          ..
+17/11/2025  12:14            73.802 KzcmVNSNkYkueQf.exe
+               1 File(s)         73.802 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\Temp\WPDNSE
+
+17/11/2025  12:17    <DIR>          .
+17/11/2025  12:17    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Local\VirtualStore
+
+30/06/2017  18:41    <DIR>          .
+30/06/2017  18:41    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\LocalLow
+
+30/06/2017  18:43    <DIR>          .
+30/06/2017  18:43    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\LocalLow\Microsoft
+
+23/10/2018  21:15    <DIR>          Internet Explorer
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\LocalLow\Microsoft\Internet Explorer
+
+23/10/2018  21:15    <DIR>          .
+23/10/2018  21:15    <DIR>          ..
+17/11/2025  11:55    <DIR>          Services
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\LocalLow\Microsoft\Internet Explorer\Services
+
+17/11/2025  11:55    <DIR>          .
+17/11/2025  11:55    <DIR>          ..
+17/11/2025  11:55             4.286 search_{0633EE93-D776-472f-A0FF-E1416B8B2E3A}.ico
+               1 File(s)          4.286 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming
+
+30/06/2017  18:41    <DIR>          .
+30/06/2017  18:41    <DIR>          ..
+30/06/2017  18:41    <DIR>          Identities
+12/04/2011  09:28    <DIR>          Media Center Programs
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Identities
+
+30/06/2017  18:41    <DIR>          .
+30/06/2017  18:41    <DIR>          ..
+30/06/2017  18:41    <DIR>          {495F5606-BED6-4503-AECA-EF95B0F9C62B}
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Identities\{495F5606-BED6-4503-AECA-EF95B0F9C62B}
+
+30/06/2017  18:41    <DIR>          .
+30/06/2017  18:41    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Media Center Programs
+
+12/04/2011  09:28    <DIR>          .
+12/04/2011  09:28    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft
+
+14/07/2009  04:20    <DIR>          Internet Explorer
+16/07/2017  18:46    <DIR>          MMC
+30/06/2017  18:42    <DIR>          Network
+17/11/2025  12:06    <DIR>          Speech
+30/06/2017  18:41    <DIR>          Windows
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Internet Explorer
+
+14/07/2009  04:20    <DIR>          .
+14/07/2009  04:20    <DIR>          ..
+23/10/2018  21:14    <DIR>          Quick Launch
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch
+
+23/10/2018  21:14    <DIR>          .
+23/10/2018  21:14    <DIR>          ..
+23/10/2018  21:14             1.441 Launch Internet Explorer Browser.lnk
+14/07/2009  05:49               290 Shows Desktop.lnk
+14/07/2009  05:49               272 Window Switcher.lnk
+               3 File(s)          2.003 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned
+
+30/06/2017  18:41    <DIR>          ImplicitAppShortcuts
+30/06/2017  18:42    <DIR>          TaskBar
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\ImplicitAppShortcuts
+
+30/06/2017  18:41    <DIR>          .
+30/06/2017  18:41    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+30/06/2017  18:42             1.447 Internet Explorer.lnk
+14/07/2009  05:49             1.228 Windows Explorer.lnk
+21/11/2010  04:40             1.547 Windows Media Player.lnk
+               3 File(s)          4.222 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\MMC
+
+16/07/2017  18:46    <DIR>          .
+16/07/2017  18:46    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Network
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+30/06/2017  18:42    <DIR>          Connections
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Network\Connections
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+30/06/2017  18:42    <DIR>          Pbk
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Network\Connections\Pbk
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+30/06/2017  18:42    <DIR>          _hiddenPbk
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Network\Connections\Pbk\_hiddenPbk
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+30/06/2017  18:42                 0 rasphone.pbk
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Speech
+
+17/11/2025  12:06    <DIR>          .
+17/11/2025  12:06    <DIR>          ..
+17/11/2025  12:06    <DIR>          Files
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Speech\Files
+
+17/11/2025  12:06    <DIR>          .
+17/11/2025  12:06    <DIR>          ..
+17/11/2025  12:06    <DIR>          UserLexicons
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Speech\Files\UserLexicons
+
+17/11/2025  12:06    <DIR>          .
+17/11/2025  12:06    <DIR>          ..
+17/11/2025  12:06               940 SP_111E79394FB841DAA2EB5BEFFA63AE8F.dat
+               1 File(s)            940 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Windows
+
+30/06/2017  18:41    <DIR>          .
+30/06/2017  18:41    <DIR>          ..
+30/06/2017  18:41    <DIR>          IECompatCache
+30/06/2017  18:42    <DIR>          Libraries
+14/07/2009  03:34    <DIR>          Network Shortcuts
+14/07/2009  03:35    <DIR>          Printer Shortcuts
+30/06/2017  18:41    <DIR>          PrivacIE
+17/11/2025  12:24    <DIR>          Recent
+30/06/2017  18:41    <DIR>          SendTo
+30/06/2017  18:42    <DIR>          Start Menu
+14/07/2009  03:34    <DIR>          Templates
+30/06/2017  18:41    <DIR>          Themes
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Windows\Cookies\Low
+
+17/11/2025  11:56               963 administrador@bing[1].txt
+17/11/2025  11:56               100 administrador@www.bing[1].txt
+               2 File(s)          1.063 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Windows\IECompatCache
+
+30/06/2017  18:41    <DIR>          .
+30/06/2017  18:41    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Windows\Libraries
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+30/06/2017  18:42             3.583 Documents.library-ms
+30/06/2017  18:42             3.540 Music.library-ms
+30/06/2017  18:42             3.575 Pictures.library-ms
+30/06/2017  18:42             3.554 Videos.library-ms
+               4 File(s)         14.252 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+
+14/07/2009  03:34    <DIR>          .
+14/07/2009  03:34    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Windows\Printer Shortcuts
+
+14/07/2009  03:35    <DIR>          .
+14/07/2009  03:35    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Windows\PrivacIE
+
+30/06/2017  18:41    <DIR>          .
+30/06/2017  18:41    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Windows\Recent
+
+17/11/2025  12:24    <DIR>          .
+17/11/2025  12:24    <DIR>          ..
+28/12/2018  09:50    <DIR>          AutomaticDestinations
+19/07/2017  12:45             2.609 Bellota_fondo_GRIS.lnk
+28/12/2018  10:37               540 crea_user (2).lnk
+28/12/2018  09:21               547 crea_user.lnk
+17/11/2025  11:56    <DIR>          CustomDestinations
+28/12/2018  09:50               735 HoVgcPUXNBk.lnk
+17/11/2025  12:23               542 ipconfig.lnk
+28/12/2018  08:49               520 KMSpico v.10.2.0.lnk
+17/11/2025  12:20               535 listado.lnk
+17/11/2025  12:22               557 netstat-nao.lnk
+23/10/2018  20:53               530 secret.lnk
+17/11/2025  12:24               552 systeminfo.lnk
+28/12/2018  09:50               551 Temp.lnk
+              11 File(s)          8.218 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations
+
+28/12/2018  09:50    <DIR>          .
+28/12/2018  09:50    <DIR>          ..
+17/11/2025  12:24             8.192 1b4dd67f29cb1962.automaticDestinations-ms
+17/11/2025  12:16             8.704 7e4dca80246863e3.automaticDestinations-ms
+17/11/2025  12:24             7.168 9b9cdc69c1c24e2b.automaticDestinations-ms
+28/12/2018  09:50             3.584 9f5c7755804b850a.automaticDestinations-ms
+               4 File(s)         27.648 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations
+
+17/11/2025  11:56    <DIR>          .
+17/11/2025  11:56    <DIR>          ..
+30/06/2017  18:42                24 1b4dd67f29cb1962.customDestinations-ms
+17/11/2025  11:56             4.184 28c8b86deab549a1.customDestinations-ms
+30/06/2017  18:42            17.261 5afe4de1b92fc382.customDestinations-ms
+30/06/2017  18:42                24 7e4dca80246863e3.customDestinations-ms
+               4 File(s)         21.493 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Windows\SendTo
+
+30/06/2017  18:41    <DIR>          .
+30/06/2017  18:41    <DIR>          ..
+10/06/2009  21:45                 3 Compressed (zipped) Folder.ZFSendToTarget
+10/06/2009  21:44                 7 Desktop (create shortcut).DeskLink
+30/06/2017  18:41                 0 Documents.mydocs
+14/07/2009  05:54             1.238 Fax Recipient.lnk
+10/06/2009  21:44                 4 Mail Recipient.MAPIMail
+               5 File(s)          1.252 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Windows\Start Menu
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+30/06/2017  18:42    <DIR>          Programs
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+14/07/2009  05:54    <DIR>          Accessories
+30/06/2017  18:42    <DIR>          Administrative Tools
+30/06/2017  18:42             1.413 Internet Explorer (64-bit).lnk
+30/06/2017  18:42             1.447 Internet Explorer.lnk
+14/07/2009  05:49    <DIR>          Maintenance
+30/06/2017  18:42    <DIR>          Startup
+               2 File(s)          2.860 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories
+
+14/07/2009  05:54    <DIR>          .
+14/07/2009  05:54    <DIR>          ..
+14/07/2009  05:54    <DIR>          Accessibility
+14/07/2009  05:54             1.280 Command Prompt.lnk
+14/07/2009  05:54             1.304 Notepad.lnk
+14/07/2009  05:49               262 Run.lnk
+30/06/2017  18:42    <DIR>          System Tools
+14/07/2009  05:49             1.228 Windows Explorer.lnk
+               4 File(s)          4.074 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Accessibility
+
+14/07/2009  05:54    <DIR>          .
+14/07/2009  05:54    <DIR>          ..
+14/07/2009  05:54             1.358 Ease of Access.lnk
+14/07/2009  05:54             1.258 Magnify.lnk
+14/07/2009  05:54             1.262 Narrator.lnk
+14/07/2009  05:54             1.250 On-Screen Keyboard.lnk
+               4 File(s)          5.128 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+14/07/2009  05:49               262 computer.lnk
+14/07/2009  05:49               262 Control Panel.lnk
+30/06/2017  18:42             1.497 Internet Explorer (No Add-ons).lnk
+14/07/2009  05:54             1.306 Private Character Editor.lnk
+               4 File(s)          3.327 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Maintenance
+
+14/07/2009  05:49    <DIR>          .
+14/07/2009  05:49    <DIR>          ..
+14/07/2009  05:49               262 Help.lnk
+               1 File(s)            262 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Windows\Templates
+
+14/07/2009  03:34    <DIR>          .
+14/07/2009  03:34    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\AppData\Roaming\Microsoft\Windows\Themes
+
+30/06/2017  18:41    <DIR>          .
+30/06/2017  18:41    <DIR>          ..
+19/07/2017  12:45           942.795 TranscodedWallpaper.jpg
+               1 File(s)        942.795 bytes
+
+ Directory of C:\Users\Administrador\Contacts
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+30/06/2017  18:41            68.382 Administrador.contact
+               1 File(s)         68.382 bytes
+
+ Directory of C:\Users\Administrador\Desktop
+
+17/11/2025  12:26    <DIR>          .
+17/11/2025  12:26    <DIR>          ..
+09/08/2017  18:06            11.003 crea_user.py
+09/08/2017  17:57                 0 crea_user.txt
+17/11/2025  12:26                 0 dir.txt
+17/11/2025  12:23             2.376 ipconfig.txt
+17/11/2025  12:22             3.216 netstat-nao.txt
+17/11/2025  12:24             2.167 systeminfo.txt
+17/11/2025  12:20             3.824 tasklist.txt
+               7 File(s)         22.586 bytes
+
+ Directory of C:\Users\Administrador\Documents
+
+19/07/2017  12:45    <DIR>          .
+19/07/2017  12:45    <DIR>          ..
+19/12/2016  19:42           942.795 Bellota_fondo_GRIS.jpg
+               1 File(s)        942.795 bytes
+
+ Directory of C:\Users\Administrador\Downloads
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\Favorites
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+23/10/2018  21:15    <DIR>          Links
+30/06/2017  18:42    <DIR>          Links for United States
+30/06/2017  18:42    <DIR>          Microsoft Websites
+30/06/2017  18:42    <DIR>          MSN Websites
+30/06/2017  18:42    <DIR>          Windows Live
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\Favorites\Links
+
+23/10/2018  21:15    <DIR>          .
+23/10/2018  21:15    <DIR>          ..
+23/10/2018  21:15               236 Suggested Sites.url
+23/10/2018  21:14               226 Web Slice Gallery.url
+               2 File(s)            462 bytes
+
+ Directory of C:\Users\Administrador\Favorites\Links for United States
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+23/10/2018  21:14               134 GobiernoUSA.gov.url
+23/10/2018  21:14               134 USA.gov.url
+               2 File(s)            268 bytes
+
+ Directory of C:\Users\Administrador\Favorites\Microsoft Websites
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+23/10/2018  21:14               133 IE Add-on site.url
+23/10/2018  21:14               133 IE site on Microsoft.com.url
+23/10/2018  21:14               133 Microsoft At Home.url
+23/10/2018  21:14               133 Microsoft At Work.url
+23/10/2018  21:14               134 Microsoft Store.url
+               5 File(s)            666 bytes
+
+ Directory of C:\Users\Administrador\Favorites\MSN Websites
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+23/10/2018  21:14               133 MSN Autos.url
+23/10/2018  21:14               133 MSN Entertainment.url
+23/10/2018  21:14               133 MSN Money.url
+23/10/2018  21:14               133 MSN Sports.url
+23/10/2018  21:14               133 MSN.url
+23/10/2018  21:14               133 MSNBC News.url
+               6 File(s)            798 bytes
+
+ Directory of C:\Users\Administrador\Favorites\Windows Live
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+23/10/2018  21:14               133 Get Windows Live.url
+23/10/2018  21:14               133 Windows Live Gallery.url
+23/10/2018  21:14               133 Windows Live Mail.url
+23/10/2018  21:14               133 Windows Live Spaces.url
+               4 File(s)            532 bytes
+
+ Directory of C:\Users\Administrador\Links
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+30/06/2017  18:42               461 Desktop.lnk
+30/06/2017  18:42               892 Downloads.lnk
+30/06/2017  18:42               363 RecentPlaces.lnk
+               3 File(s)          1.716 bytes
+
+ Directory of C:\Users\Administrador\Music
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\Pictures
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\Saved Games
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\Searches
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrador\Videos
+
+30/06/2017  18:42    <DIR>          .
+30/06/2017  18:42    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+             300 File(s)     45.770.061 bytes
+             386 Dir(s)  22.701.621.248 bytes free

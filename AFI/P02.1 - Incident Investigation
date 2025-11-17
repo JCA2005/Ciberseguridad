@@ -1,0 +1,68 @@
+# Informe de Adquisición de Evidencias – Disco Duro (FTK Imager)
+
+## 1. Fundamentación teórica
+El análisis forense digital, como parte integral de la respuesta a incidentes digitales (DFIR), ayuda a gestionar y contrarrestar ataques informáticos proporcionando datos esenciales para la recuperación post-incidente y la prevención futura de amenazas. Los profesionales de DFIR recopilan pruebas digitales, examinan sistemas de archivos, registros y memoria, y evalúan redes para entender la naturaleza de los ataques y tomar medidas legales contra los perpetradores. Este enfoque exhaustivo es fundamental para una respuesta efectiva a incidentes cibernéticos.
+
+## 2. Objetivos del procedimiento
+- Extraer y analizar evidencias conservando la cadena de custodia.
+- Documentar el proceso de manera metódica.
+- Realizar un análisis de evidencias específico del incidente.
+- Elaborar un informe de conclusiones a nivel técnico, sintetizando los hallazgos principales.
+
+## 3. Descripción de la evidencia
+- **Tipo de evidencia:** Disco duro virtual de la máquina comprometida.
+- **Formato original:** `.ova` exportado.
+- **Contenido relevante:** Sistema de archivos completo de la VM, incluyendo usuarios, logs y configuraciones.
+- **Estado:** Máquina apagada, no se realizaron cambios en la VM original.
+
+## 4. Recolección y almacenamiento de la evidencia
+
+### 4.1 Extracción del disco virtual
+1. Se recibió el archivo `Forensic_10.ova`.
+2. Se abrió el archivo con 7-Zip (u otro extractor compatible) para extraer el contenido.
+3. Dentro del `.ova` se identificó el disco virtual:
+   - `Forensic_10-disk1.vmdk`
+4. Se extrajo este `.vmdk` a la carpeta de evidencias segura:  
+
+
+### 4.2 Adición de la evidencia en FTK Imager
+1. Abrir FTK Imager en el equipo host.
+2. Seleccionar: **File → Add Evidence Item → Image File**.
+3. Navegar hasta la ruta del disco virtual extraído (`Forensic_10-disk1.vmdk`) y seleccionarlo.
+4. Confirmar que FTK Imager reconoce la estructura de particiones y sistema de archivos.
+5. La evidencia queda disponible para navegación y extracción de archivos sin modificar el original.
+
+### 4.3 Cadena de custodia
+| Campo | Información |
+|-------|-------------|
+| **Caso** | CSIRT-2025-001 |
+| **Número de evidencia** | EV-001 |
+| **Ítem** | Disco duro virtual |
+| **Recolectado por** | JCA |
+| **Fecha de recolección** | 17/11/2025 |
+| **Ubicación de almacenamiento** | C:\Evidencias\Forensic_10\ |
+| **Método de adquisición** | Extracción directa del `.ova` y análisis en FTK Imager |
+
+### 4.4 Verificación de integridad
+- Se calculó el **hash MD5 y SHA-256** del disco virtual `.vmdk` antes de cualquier análisis:
+- **MD5:** `d41d8cd98f00b204e9800998ecf8427e` *(ejemplo)*
+- **SHA-256:** `e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855` *(ejemplo)*
+- Se guarda registro de hashes para garantizar integridad y cadena de custodia.
+
+### 4.5 Metodología aplicada
+- **Extracción del archivo `.vmdk` desde el `.ova`**: asegura que se trabaja sobre una copia y no sobre el original.  
+- **Adición en FTK Imager**: permite exploración segura y extracción de evidencias.  
+- **Hashing**: garantiza integridad de la evidencia y cumplimiento forense.  
+- **Documentación detallada de la ruta, responsables y fechas**: asegura cadena de custodia completa.
+
+## 5. Observaciones
+- No se pudo capturar RAM, dado que la VM no se puede ejecutar ni modificar.  
+- Todo el análisis se realizó **desde fuera de la VM**, garantizando que no se alteran evidencias originales.  
+- Este procedimiento permite cumplir con los objetivos de adquisición y análisis de disco según la metodología DFIR.
+
+---
+
+## 6. Anexos
+- Capturas de pantalla de FTK Imager mostrando el disco cargado y exploración de archivos.
+- Lista de archivos críticos con rutas, tamaños y hashes.
+- Registro de cadena de custodia completo.

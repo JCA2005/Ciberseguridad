@@ -1,0 +1,113 @@
+# 2.3 – Informe
+
+![GettyImages-821267600-workplace-accident-investigation-1200x630-min](https://github.com/user-attachments/assets/af40ffae-d86d-4ebe-8ff3-37b63c3e47ff)
+
+
+---
+
+# **Informe Ejecutivo**
+
+## **Resumen del incidente**
+El CSIRT detectó actividad anómala en una máquina del departamento de IT que ejecutaba el servicio *Easy File Sharing Web Server 7.2*. Durante la revisión inicial se observaron conexiones sospechosas en el puerto **8089/TCP**, lo que llevó al inicio de un análisis forense.
+
+La investigación confirmó que la máquina fue comprometida mediante la explotación de la vulnerabilidad **CVE-2025-34096**, un *Buffer Overflow* que permite ejecución remota de código sin autenticación. El exploit utilizado fue localizado en el archivo **crea_user.py**, encontrado en el escritorio del usuario Administrador.
+
+## **Impacto**
+Tras la explotación, el atacante consiguió:
+- Ejecutar código arbitrario en la máquina.
+- Desplegar un ejecutable malicioso: **KzcmVNSNkYkueQf.exe**.
+- Crear un usuario persistente: **ihacklabs / Ihack12/**.
+- Generar persistencia y control total del sistema.
+
+Además, se hallaron restos de un activador **KMSpico**, señal de que el equipo contenía software no autorizado y vulnerable.
+
+## **Causa raíz**
+La causa principal del incidente fue:
+- Uso de un servicio obsoleto vulnerable (Easy File Sharing Web Server 7.2).
+- Exposición del puerto **8089/TCP**.
+- Existencia de software inseguro que debilitó la protección del sistema.
+
+## **Conclusiones clave**
+- El ataque explotó una vulnerabilidad conocida y pública.
+- Se utilizaron herramientas automatizadas como **Metasploit** para crear payload y persistencia.
+- El sistema ya se encontraba en un estado inseguro antes del ataque.
+- Se obtuvo acceso persistente y ejecución remota de código.
+
+## **Recomendaciones**
+- Eliminar software no autorizado (KMS Activator, cracks).
+- Desinstalar servicios obsoletos vulnerables.
+- Configurar políticas de endurecimiento (hardening).
+- Restringir puertos expuestos.
+- Revisar y restaurar todas las credenciales del sistema.
+- Implementar monitorización activa del sistema.
+
+---
+
+# **Informe Técnico Detallado**
+
+## 1. Visión general
+Se realizó la adquisición del disco mediante **FTK Imager**, manteniendo la cadena de custodia y verificando integridad con hashes. El análisis incluyó:
+- Estructura de archivos
+- Procesos
+- Conexiones de red
+- Logs
+- Artefactos sospechosos
+- Scripts de explotación
+
+## 2. Hallazgos técnicos
+
+### **2.1 Vulnerabilidad explotada**
+La intrusión se llevó a cabo mediante:
+
+**CVE-2025-34096 – Easy File Sharing Web Server 7.2 – Buffer Overflow (RCE)**  
+
+El exploit envía una petición malformada al endpoint:
+POST /sendemail.ghp
+
+Dentro del script aparece el payload generado con *msfvenom*:
+msfvenom -p windows/adduser user=ihacklabs password=Ihack12/ -e x86/alpha_mixed -f python
+
+Este payload se utiliza para crear un usuario malicioso tras la explotación.
+
+### **2.3 Proceso malicioso ejecutado**
+Se identificó un ejecutable sospechoso no firmado:
+
+- **Archivo:** KzcmVNSNkYkueQf.exe  
+- **PID:** 2640  
+- **Origen:** Carpeta temporal del usuario  
+- **Motivo sospecha:** Nombre aleatorio, no corresponde a ningún software legítimo
+
+Esto confirma la ejecución de malware posterior a la explotación inicial.
+
+### **2.4 Herramienta de hacking utilizada**
+Se confirma el uso de:
+
+**Metasploit Framework (msfvenom)**
+
+Detectado gracias al payload incrustado en el script encontrado.
+
+### **2.5 Otros elementos relevantes**
+- Rastros de activador **KMSpico**  
+- Modificaciones no legítimas en servicios  
+- Logs del servicio vulnerable con registros previos al ataque  
+
+---
+
+# **3. Presentación de Hallazgos (Índice de Evidencias)**
+
+| Nº | Evidencia | Ruta completa | MAC Time | Tamaño | Hash | Descripción |
+|----|----------|----------------|----------|--------|------|-------------|
+| 1 | Script crea_user.py | C:\Users\Administrador\Desktop\crea_user.py | M: 2025-11-15 18:22 / A: 18:22 / C: 17:59 | 5.8 KB | (hash registrado) | Exploit utilizado para comprometer la máquina |
+| 2 | Malware | C:\Users\Administrador\AppData\Local\Temp\KzcmVNSNkYkueQf.exe | MAC times conservados | 232 KB | (hash registrado) | Ejecutable malicioso post-explotación |
+| 3 | Log del servicio vulnerable | C:\Program Files (x86)\EasyFileSharing\log.txt | Variable | Variable | (hash) | Muestra interacción previa y fallos del servicio |
+| 4 | Usuario malicioso | SAM / SECURITY hives | N/A | N/A | N/A | Usuario *ihacklabs* generado vía payload |
+
+---
+
+# **4. Conclusiones técnicas**
+La máquina fue comprometida mediante explotación remota a través de una vulnerabilidad crítica conocida. El atacante usó *Metasploit* para crear un usuario persistente y desplegar malware. El ataque fue facilitado por software no autorizado y una configuración débil.
+
+El análisis forense permitió reconstruir el vector de ataque, los artefactos generados y la secuencia completa del compromiso.
+
+---
+

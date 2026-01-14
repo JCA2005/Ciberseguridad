@@ -13,6 +13,21 @@ A continuación se detallan los hallazgos, las evidencias gráficas obtenidas du
 
 ---
 
+## Configuración Previa
+
+Para empezar con esta actividad, ejecutaremos **XAMPP** y seguidamente iniciaremos **Apache**:
+
+<img width="1920" height="1020" alt="Captura de pantalla 2026-01-14 083531" src="https://github.com/user-attachments/assets/395ebfa5-9335-4de8-9b84-0bf28947fea3" />
+
+Posteriormente copiaremos el zip **Web_Talent-ScoutTech** extraido que nos han proporcionado y lo pegaremos en la ruta **C:\xampp\htdocs**:
+
+<img width="1920" height="1020" alt="Captura de pantalla 2026-01-14 132552" src="https://github.com/user-attachments/assets/036a728b-4d95-462f-855f-05d13755a312" />
+
+Seguidamente abriremos el navegador y accederemos a la ruta **http://localhost/Web_Talent-ScoutTech/web/**, como podemos ver ya estamos dentro de la web:
+
+<img width="1920" height="1020" alt="Captura de pantalla 2026-01-14 132703" src="https://github.com/user-attachments/assets/018b1987-d19b-4cff-afa3-4f1b2548853f" />
+
+
 ## Parte 1: Inyección SQL (SQLi) y Autenticación
 
 ### a) Evasión del Login mediante SQL Injection
@@ -31,6 +46,9 @@ El formulario de acceso no sanitiza correctamente las entradas del usuario, perm
 En el caso supuesto de que la inyección SQL estuviera parcheada, el sistema carece de mecanismos contra fuerza bruta.
 * **Metodología:** Para impersonar al usuario "luis", se utilizaría una herramienta automatizada como **Burp Suite Intruder** o **Hydra**. Se configuraría el ataque contra `insert_player.php` (POST), fijando el usuario `luis` e iterando sobre el diccionario de contraseñas comunes (`123456`, `password`, etc.) hasta obtener un acceso exitoso.
 
+<img width="1920" height="1020" alt="Captura de pantalla 2026-01-14 093314" src="https://github.com/user-attachments/assets/85340aa2-1856-43ab-974f-241c895f8b78" />
+
+
 ### c) Análisis de código: `SQLite3::escapeString()`
 El análisis del código fuente (`register.php`) revela el uso de `SQLite3::escapeString()`.
 * **Problema:** Esta función es obsoleta e insegura para la prevención moderna de SQLi. Solo escapa comillas simples, pero no separa la lógica de la consulta de los datos.
@@ -41,7 +59,7 @@ Se descubrió una vulnerabilidad crítica de **Insecure Direct Object Reference 
 
 **Prueba de Concepto:**
 1.  Mediante las herramientas de desarrollador (F12), se inspeccionó el almacenamiento local.
-2.  Se localizó la cookie `userId` y se modificó manualmente su valor a `1` (correspondiente al administrador).
+2.  Se localizó la cookie `user` y se modificó manualmente su valor a `1` (correspondiente al administrador).
 
 **Evidencia:** Modificación de la cookie en el navegador.
 <img width="1920" height="1020" alt="Captura de pantalla 2026-01-14 093838" src="https://github.com/user-attachments/assets/3f284d81-a506-4fd2-a2ae-67eb339a2564" />
@@ -70,11 +88,18 @@ Se descubrió una vulnerabilidad crítica de **Insecure Direct Object Reference 
 La sección de comentarios (`show_comments.php`) es vulnerable a XSS Almacenado. La aplicación imprime el contenido de los comentarios directamente sin sanitización.
 
 * **Prueba:** Se inyectó el payload `<script>alert('Cuidado con el hacker')</script>`.
+
+<img width="1920" height="1020" alt="Captura de pantalla 2026-01-14 094325" src="https://github.com/user-attachments/assets/03b701c4-8766-429c-8059-27343f76f411" />
+
+  
 * **Resultado:** Al cargar la página, el navegador ejecutó el código JavaScript malicioso.
 
 **Evidencia:** Ejecución del script (Alert) en el navegador.
 <img width="1920" height="1020" alt="Captura de pantalla 2026-01-14 094346" src="https://github.com/user-attachments/assets/8f50aa2a-39d6-4ca6-8246-c9017a2d17ed" />
 
+Y como podemos ver el comentario sale invisible porque no es un comentario como tal, esto significa que nos ha cogido correctamente el alert mostrado anteriormente.
+
+<img width="1920" height="1020" alt="Captura de pantalla 2026-01-14 094359" src="https://github.com/user-attachments/assets/b3c7e5b3-6e44-4a48-8caf-4f3b5b7e2d49" />
 
 
 ### b) Uso de `&amp;`

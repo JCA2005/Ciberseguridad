@@ -1,8 +1,11 @@
 # Informe de Auditoría de Seguridad: Talent ScoutTech
 
+<img width="2560" height="1498" alt="image" src="https://github.com/user-attachments/assets/b4474799-f73e-4fa3-8efd-9e287fa14954" />
+
 **Proyecto:** Auditoría Web y Pentesting - Talent ScoutTech
 **Fecha:** 14/01/2026
 **Tecnologías:** Apache, PHP, SQLite3
+**Autor:** Javier Calvillo Acebedo
 
 ---
 
